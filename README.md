@@ -19,6 +19,9 @@ This AWS Lambda function integrates with Amazon GuardDuty and Amazon SNS to moni
 - AWS account with necessary permissions.
 - Basic understanding of AWS services: Lambda, GuardDuty, SNS, EventBridge, IAM.
 
+## AWSGuardDutyFinder image
+![DorkHunter image](AWSGuardDutyFinder.png)
+
 ## Setup Instructions
 
 ### Step 1: Create an SNS Topic
